@@ -1,6 +1,6 @@
 ---
 title: "Integrations"
-description: "Integrations - Fraction ERP Support Documentation"
+description: "Connect Fraction ERP with third-party applications and services. Set up integrations for accounting, shipping, and other business systems."
 section: "Getting Started"
 ---
 

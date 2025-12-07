@@ -1,6 +1,6 @@
 ---
 title: "Company Profile"
-description: "Company Profile - Fraction ERP Support Documentation"
+description: "Learn how to set up your company profile in Fraction ERP including business details, logo, address, and default settings for your manufacturing operations."
 section: "Getting Started"
 ---
 

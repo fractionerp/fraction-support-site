@@ -1,7 +1,17 @@
 title: Fraction ERP Support
-description: Support documentation for Fraction ERP - Manufacturing ERP software
-url: ""
+description: Support documentation for Fraction ERP - Manufacturing ERP software for small to medium manufacturers. Learn how to manage work orders, BOMs, inventory, purchasing, and more.
+url: "https://support.fractionerp.com"
 baseurl: ""
+
+# SEO and Social
+author: Fraction ERP
+logo: /assets/images/logo.png
+lang: en_US
+
+social:
+  name: Fraction ERP
+  links:
+    - https://www.linkedin.com/company/67678664
 
 # Build settings
 markdown: kramdown
@@ -34,3 +44,4 @@ exclude:
 # Plugins (GitHub Pages compatible)
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap

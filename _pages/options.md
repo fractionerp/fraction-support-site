@@ -1,6 +1,6 @@
 ---
 title: "Options"
-description: "Options - Fraction ERP Support Documentation"
+description: "Configure Fraction ERP system options and preferences to customize the software for your manufacturing business needs and workflows."
 section: "Getting Started"
 ---
 

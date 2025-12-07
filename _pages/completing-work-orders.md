@@ -1,6 +1,6 @@
 ---
 title: "Completing Work Orders"
-description: "Completing Work Orders - Fraction ERP Support Documentation"
+description: "Complete and close work orders in Fraction ERP. Record production quantities, labor time, scrap, and move finished goods to inventory."
 section: "Works Orders"
 ---
 

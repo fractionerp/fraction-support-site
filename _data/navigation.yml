@@ -3,135 +3,180 @@
   items:
     - title: Company Profile
       url: /company-profile/
+      icon: building-2
     - title: Options
       url: /options/
+      icon: settings
     - title: Users
       url: /users/
+      icon: user
     - title: Integrations
       url: /integrations/
+      icon: plug
     - title: Operations
       url: /operations/
+      icon: play-circle
     - title: Workcenters
       url: /workcenters/
+      icon: hard-drive
     - title: Importing Data
       url: /importing-data/
+      icon: upload
 
 - name: Dashboard & KPIs
   icon: layout-dashboard
   items:
     - title: Dashboard & KPIs
       url: /dashboard-kpis/
+      icon: bar-chart-3
 
 - name: Contracts
   icon: file-text
   items:
     - title: Enquiries and Quotations
       url: /enquiries-and-quotations/
+      icon: message-square
     - title: Sales Order Processing
       url: /sales-order-processing/
+      icon: file-check
     - title: Sales Order Demand
       url: /sales-order-demand/
+      icon: trending-up
     - title: Price Lists
       url: /price-lists/
+      icon: dollar-sign
     - title: Customer Part Numbers
       url: /customer-part-numbers/
+      icon: hash
     - title: Using Lots
       url: /using-lots/
+      icon: layers
 
 - name: Works Orders
   icon: clipboard-list
   items:
     - title: Creating Work Orders
       url: /creating-work-orders/
+      icon: plus-circle
     - title: Stock Work Orders
       url: /stock-work-orders/
+      icon: archive
     - title: Completing Work Orders
       url: /completing-work-orders/
+      icon: check-circle
     - title: Scrap Work Orders
       url: /scrap-work-orders/
+      icon: trash-2
     - title: Parallel Work Orders
       url: /parallel-work-orders/
+      icon: git-branch
     - title: Scheduling
       url: /scheduling/
+      icon: calendar
     - title: MRP
       url: /mrp/
+      icon: git-merge
     - title: Box Labels
       url: /box-labels/
+      icon: tag
     - title: Intouch Monitoring
       url: /intouch-monitoring/
+      icon: activity
 
 - name: Production
   icon: factory
   items:
     - title: Capacity Management
       url: /capacity-management/
+      icon: gauge
     - title: Manual Scheduling
       url: /manual-scheduling/
+      icon: calendar-clock
 
 - name: SFDC
   icon: monitor-dot
   items:
     - title: SFDC
       url: /sfdc/
+      icon: monitor
 
 - name: Parts
   icon: cog
   items:
     - title: Creating Parts
       url: /creating-parts/
+      icon: plus-square
     - title: Part Activity
       url: /part-activity/
+      icon: activity
     - title: Categories & Nominal Codes
       url: /categories-nominal-codes/
+      icon: folder-tree
 
 - name: Bill of Materials
   icon: list-tree
   items:
     - title: BOM Copy & Templates
       url: /bom-copy-templates/
+      icon: copy
     - title: Labour Utilisation
       url: /labour-utilisation/
+      icon: clock
 
 - name: Purchasing
   icon: shopping-cart
   items:
     - title: Receiving Goods
       url: /receiving-goods/
+      icon: package-check
     - title: Inwards Inspection
       url: /inwards-inspection/
+      icon: search-check
     - title: RFQs
       url: /rfqs/
+      icon: send
     - title: Supplier Part Numbers
       url: /supplier-part-numbers/
+      icon: hash
 
 - name: Business
   icon: briefcase
   items:
     - title: Shipping
       url: /shipping/
+      icon: truck
     - title: Invoicing
       url: /invoicing/
+      icon: receipt
     - title: Payment Terms
       url: /payment-terms/
+      icon: credit-card
     - title: CofC
       url: /cofc/
+      icon: award
     - title: Reports
       url: /reports/
+      icon: file-bar-chart
 
 - name: Contacts
   icon: users
   items:
     - title: Customer
       url: /customer/
+      icon: user-check
     - title: Suppliers
       url: /suppliers/
+      icon: store
 
 - name: Quality
   icon: badge-check
   items:
     - title: Non Conformance Reports
       url: /non-conformance-reports/
+      icon: alert-triangle
     - title: Serial Traceability
       url: /serial-traceability/
+      icon: scan-line
     - title: Batch Traceability
       url: /batch-traceability/
+      icon: boxes

@@ -1,6 +1,6 @@
 ---
 title: "Scrap Work Orders"
-description: "Scrap Work Orders - Fraction ERP Support Documentation"
+description: "Handle scrap and rejected production in Fraction ERP work orders. Record scrap reasons, quantities, and costs for quality analysis."
 section: "Works Orders"
 ---
 

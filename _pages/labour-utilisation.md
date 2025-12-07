@@ -1,6 +1,6 @@
 ---
 title: "Labour Utilisation"
-description: "Labour Utilisation - Fraction ERP Support Documentation"
+description: "Analyze labor utilization and efficiency in Fraction ERP. Track productive time, downtime, and operator performance metrics."
 section: "Bill of Materials"
 ---
 

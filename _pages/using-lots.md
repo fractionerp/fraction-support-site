@@ -1,6 +1,6 @@
 ---
 title: "Using Lots"
-description: "Using Lots - Fraction ERP Support Documentation"
+description: "Track inventory using lot numbers in Fraction ERP. Manage batch traceability, expiration dates, and lot-specific costs."
 section: "Contracts"
 ---
 

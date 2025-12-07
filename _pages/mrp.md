@@ -1,6 +1,6 @@
 ---
 title: "MRP"
-description: "MRP - Fraction ERP Support Documentation"
+description: "Run Material Requirements Planning (MRP) in Fraction ERP to generate purchase orders and work orders based on demand and inventory levels."
 section: "Works Orders"
 ---
 

@@ -1,8 +1,7 @@
 <aside class="sidebar">
   <div class="sidebar-header">
     <a href="{{ '/' | relative_url }}" class="logo">
-      <span class="logo-text">Fraction ERP</span>
-      <span class="logo-sub">Support</span>
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Fraction ERP Support" class="logo-img">
     </a>
   </div>
   <div class="nav-controls">
@@ -19,7 +18,7 @@
       </button>
       <ul class="nav-items">
         {% for item in section.items %}
-        <li><a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a></li>
+        <li><a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}"><span class="nav-link-icon"><i data-lucide="{{ item.icon | default: 'file-text' }}"></i></span>{{ item.title }}</a></li>
         {% endfor %}
       </ul>
     </div>

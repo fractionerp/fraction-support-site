@@ -1,6 +1,6 @@
 ---
 title: "Customer"
-description: "Customer - Fraction ERP Support Documentation"
+description: "Manage customer records in Fraction ERP including contact details, shipping addresses, payment terms, and order history."
 section: "Contacts"
 ---
 

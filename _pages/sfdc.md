@@ -1,6 +1,6 @@
 ---
 title: "SFDC"
-description: "SFDC - Fraction ERP Support Documentation"
+description: "Use Shop Floor Data Collection (SFDC) in Fraction ERP to capture real-time production data, labor time, and operation completions."
 section: "SFDC"
 ---
 

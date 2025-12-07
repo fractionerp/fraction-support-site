@@ -1,6 +1,6 @@
 ---
 title: "Price Lists"
-description: "Price Lists - Fraction ERP Support Documentation"
+description: "Set up and manage customer price lists in Fraction ERP. Configure pricing tiers, discounts, and special pricing agreements."
 section: "Contracts"
 ---
 

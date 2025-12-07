@@ -1,6 +1,6 @@
 ---
 title: "RFQs"
-description: "RFQs - Fraction ERP Support Documentation"
+description: "Create and manage Requests for Quotation (RFQs) in Fraction ERP. Send enquiries to suppliers and compare pricing for purchasing decisions."
 section: "Purchasing"
 ---
 

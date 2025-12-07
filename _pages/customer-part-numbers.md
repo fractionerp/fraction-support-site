@@ -1,6 +1,6 @@
 ---
 title: "Customer Part Numbers"
-description: "Customer Part Numbers - Fraction ERP Support Documentation"
+description: "Map customer part numbers to your internal part numbers in Fraction ERP for seamless order processing and documentation."
 section: "Contracts"
 ---
 

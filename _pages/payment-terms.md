@@ -1,6 +1,6 @@
 ---
 title: "Payment Terms"
-description: "Payment Terms - Fraction ERP Support Documentation"
+description: "Configure customer and supplier payment terms in Fraction ERP. Set up credit limits, payment due dates, and early payment discounts."
 section: "Business"
 ---
 

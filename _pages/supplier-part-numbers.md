@@ -1,6 +1,6 @@
 ---
 title: "Supplier Part Numbers"
-description: "Supplier Part Numbers - Fraction ERP Support Documentation"
+description: "Map supplier part numbers to internal parts in Fraction ERP. Manage alternate suppliers and streamline purchase order processing."
 section: "Purchasing"
 ---
 

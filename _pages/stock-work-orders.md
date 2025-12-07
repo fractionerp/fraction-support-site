@@ -1,6 +1,6 @@
 ---
 title: "Stock Work Orders"
-description: "Stock Work Orders - Fraction ERP Support Documentation"
+description: "Create work orders for stock replenishment in Fraction ERP. Manage make-to-stock production and inventory replenishment strategies."
 section: "Works Orders"
 ---
 

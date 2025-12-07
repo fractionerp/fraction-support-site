@@ -1,6 +1,6 @@
 ---
 title: "Receiving Goods"
-description: "Receiving Goods - Fraction ERP Support Documentation"
+description: "Receive purchased goods and materials in Fraction ERP. Process deliveries, update inventory, and manage supplier receipts."
 section: "Purchasing"
 ---
 

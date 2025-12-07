@@ -1,6 +1,6 @@
 ---
 title: "Suppliers"
-description: "Suppliers - Fraction ERP Support Documentation"
+description: "Manage supplier records in Fraction ERP including contact information, lead times, payment terms, and purchasing history."
 section: "Contacts"
 ---
 

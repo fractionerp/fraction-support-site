@@ -1,6 +1,6 @@
 ---
 title: "Part Activity"
-description: "Part Activity - Fraction ERP Support Documentation"
+description: "View part activity and transaction history in Fraction ERP. Track inventory movements, costs, and usage across all part types."
 section: "Parts"
 ---
 

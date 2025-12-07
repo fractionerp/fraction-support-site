@@ -1,6 +1,6 @@
 ---
 title: "Capacity Management"
-description: "Capacity Management - Fraction ERP Support Documentation"
+description: "Plan and manage production capacity in Fraction ERP. Analyze workcenter loads, identify bottlenecks, and optimize resource utilization."
 section: "Production"
 ---
 

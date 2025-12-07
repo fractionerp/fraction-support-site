@@ -1,6 +1,6 @@
 ---
 title: "CofC"
-description: "CofC - Fraction ERP Support Documentation"
+description: "Generate Certificates of Conformance (CofC) in Fraction ERP for quality assurance. Create compliant documentation for customer shipments."
 section: "Business"
 ---
 

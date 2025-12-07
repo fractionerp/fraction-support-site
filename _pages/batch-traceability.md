@@ -1,6 +1,6 @@
 ---
 title: "Batch Traceability"
-description: "Batch Traceability - Fraction ERP Support Documentation"
+description: "Track products by batch number in Fraction ERP. Trace materials through production for quality control and recall management."
 section: "Quality"
 ---
 

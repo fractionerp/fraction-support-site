@@ -1,6 +1,6 @@
 ---
 title: "Manual Scheduling"
-description: "Manual Scheduling - Fraction ERP Support Documentation"
+description: "Manually schedule and sequence work orders in Fraction ERP using the drag-and-drop scheduling board for fine-grained production control."
 section: "Production"
 ---
 

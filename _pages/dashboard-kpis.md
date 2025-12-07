@@ -1,6 +1,6 @@
 ---
 title: "Dashboard & KPIs"
-description: "Dashboard & KPIs - Fraction ERP Support Documentation"
+description: "Monitor key performance indicators and manufacturing metrics on the Fraction ERP dashboard. Track production efficiency, on-time delivery, and more."
 section: "Dashboard & KPIs"
 ---
 

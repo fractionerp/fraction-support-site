@@ -1,6 +1,6 @@
 ---
 title: "Sales Order Demand"
-description: "Sales Order Demand - Fraction ERP Support Documentation"
+description: "Analyze sales order demand in Fraction ERP to forecast production requirements and plan inventory levels effectively."
 section: "Contracts"
 ---
 

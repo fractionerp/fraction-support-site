@@ -1,6 +1,6 @@
 ---
 title: "Invoicing"
-description: "Invoicing - Fraction ERP Support Documentation"
+description: "Create and manage customer invoices in Fraction ERP. Generate invoices from shipments, track payments, and export to accounting systems."
 section: "Business"
 ---
 

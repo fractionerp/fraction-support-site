@@ -1,6 +1,6 @@
 ---
 title: "Users"
-description: "Users - Fraction ERP Support Documentation"
+description: "Manage user accounts, roles, and permissions in Fraction ERP. Control access levels and security settings for your manufacturing team."
 section: "Getting Started"
 ---
 

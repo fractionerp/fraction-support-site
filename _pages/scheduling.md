@@ -1,6 +1,6 @@
 ---
 title: "Scheduling"
-description: "Scheduling - Fraction ERP Support Documentation"
+description: "Schedule production work orders in Fraction ERP. Use forward and backward scheduling to optimize shop floor capacity and meet delivery dates."
 section: "Works Orders"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Creating Parts"
-description: "Creating Parts - Fraction ERP Support Documentation"
+description: "Create and configure parts in Fraction ERP including manufactured items, purchased components, and raw materials with full specifications."
 section: "Parts"
 ---
 

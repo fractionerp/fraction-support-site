@@ -1,6 +1,6 @@
 ---
 title: "Categories & Nominal Codes"
-description: "Categories & Nominal Codes - Fraction ERP Support Documentation"
+description: "Organize parts with categories and nominal codes in Fraction ERP. Set up classification structures for reporting and accounting integration."
 section: "Parts"
 ---
 

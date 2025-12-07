@@ -1,6 +1,6 @@
 ---
 title: "Box Labels"
-description: "Box Labels - Fraction ERP Support Documentation"
+description: "Print box labels and product identification tags in Fraction ERP. Configure label templates with barcodes, part info, and quantities."
 section: "Works Orders"
 ---
 

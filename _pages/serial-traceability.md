@@ -1,6 +1,6 @@
 ---
 title: "Serial Traceability"
-description: "Serial Traceability - Fraction ERP Support Documentation"
+description: "Track products by serial number in Fraction ERP. Maintain full traceability from raw materials through to customer delivery."
 section: "Quality"
 ---
 

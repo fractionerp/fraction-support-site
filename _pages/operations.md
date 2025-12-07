@@ -1,6 +1,6 @@
 ---
 title: "Operations"
-description: "Operations - Fraction ERP Support Documentation"
+description: "Define and manage manufacturing operations in Fraction ERP. Set up operation types, work instructions, and standard times for production."
 section: "Getting Started"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Importing Data"
-description: "Importing Data - Fraction ERP Support Documentation"
+description: "Import existing data into Fraction ERP from spreadsheets and other systems. Migrate parts, BOMs, customers, and suppliers efficiently."
 section: "Getting Started"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Inwards Inspection"
-description: "Inwards Inspection - Fraction ERP Support Documentation"
+description: "Perform inwards goods inspection in Fraction ERP. Record quality checks, accept or reject deliveries, and maintain supplier quality records."
 section: "Purchasing"
 ---
 

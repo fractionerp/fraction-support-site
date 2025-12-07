@@ -1,6 +1,6 @@
 ---
 title: "Shipping"
-description: "Shipping - Fraction ERP Support Documentation"
+description: "Manage shipping and dispatch in Fraction ERP. Create shipments, print delivery notes, and track consignments to customers."
 section: "Business"
 ---
 

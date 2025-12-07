@@ -1,6 +1,6 @@
 ---
 title: "Sales Order Processing"
-description: "Sales Order Processing - Fraction ERP Support Documentation"
+description: "Process sales orders in Fraction ERP from receipt to fulfillment. Manage order entry, allocation, and customer communications."
 section: "Contracts"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "BOM Copy & Templates"
-description: "BOM Copy & Templates - Fraction ERP Support Documentation"
+description: "Copy and template Bills of Materials in Fraction ERP. Quickly create new BOMs from existing structures and manage BOM revisions."
 section: "Bill of Materials"
 ---
 

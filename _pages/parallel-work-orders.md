@@ -1,6 +1,6 @@
 ---
 title: "Parallel Work Orders"
-description: "Parallel Work Orders - Fraction ERP Support Documentation"
+description: "Create parallel work orders in Fraction ERP for split operations and concurrent manufacturing processes on the shop floor."
 section: "Works Orders"
 ---
 

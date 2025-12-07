@@ -1,6 +1,6 @@
 ---
 title: "Intouch Monitoring"
-description: "Intouch Monitoring - Fraction ERP Support Documentation"
+description: "Monitor shop floor production in real-time with Fraction ERP Intouch. Track machine status, operator activity, and work order progress."
 section: "Works Orders"
 ---
 

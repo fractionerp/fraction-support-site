@@ -1,6 +1,6 @@
 ---
 title: "Reports"
-description: "Reports - Fraction ERP Support Documentation"
+description: "Generate business reports in Fraction ERP. Access production, inventory, sales, and financial reports for data-driven decision making."
 section: "Business"
 ---
 

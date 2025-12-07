@@ -1,6 +1,6 @@
 ---
 title: "Workcenters"
-description: "Workcenters - Fraction ERP Support Documentation"
+description: "Configure workcenters and production resources in Fraction ERP. Manage machine capacity, labor rates, and scheduling parameters."
 section: "Getting Started"
 ---
 
