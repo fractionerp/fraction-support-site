@@ -1,0 +1,16 @@
+---
+title: "Serial Traceability"
+description: "Serial Traceability - Fraction ERP Support Documentation"
+section: "Quality"
+---
+
+# Serial Traceability
+
+Details for Serial Traceability under Quality.
+
+## Video Tutorial
+
+<div class="video-container">
+  <iframe src="https://player.vimeo.com/video/1137311342" title="Serial Traceability" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+

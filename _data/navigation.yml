@@ -1,0 +1,137 @@
+- name: Getting Started
+  icon: rocket
+  items:
+    - title: Company Profile
+      url: /company-profile/
+    - title: Options
+      url: /options/
+    - title: Users
+      url: /users/
+    - title: Integrations
+      url: /integrations/
+    - title: Operations
+      url: /operations/
+    - title: Workcenters
+      url: /workcenters/
+    - title: Importing Data
+      url: /importing-data/
+
+- name: Dashboard & KPIs
+  icon: layout-dashboard
+  items:
+    - title: Dashboard & KPIs
+      url: /dashboard-kpis/
+
+- name: Contracts
+  icon: file-text
+  items:
+    - title: Enquiries and Quotations
+      url: /enquiries-and-quotations/
+    - title: Sales Order Processing
+      url: /sales-order-processing/
+    - title: Sales Order Demand
+      url: /sales-order-demand/
+    - title: Price Lists
+      url: /price-lists/
+    - title: Customer Part Numbers
+      url: /customer-part-numbers/
+    - title: Using Lots
+      url: /using-lots/
+
+- name: Works Orders
+  icon: clipboard-list
+  items:
+    - title: Creating Work Orders
+      url: /creating-work-orders/
+    - title: Stock Work Orders
+      url: /stock-work-orders/
+    - title: Completing Work Orders
+      url: /completing-work-orders/
+    - title: Scrap Work Orders
+      url: /scrap-work-orders/
+    - title: Parallel Work Orders
+      url: /parallel-work-orders/
+    - title: Scheduling
+      url: /scheduling/
+    - title: MRP
+      url: /mrp/
+    - title: Box Labels
+      url: /box-labels/
+    - title: Intouch Monitoring
+      url: /intouch-monitoring/
+
+- name: Production
+  icon: factory
+  items:
+    - title: Capacity Management
+      url: /capacity-management/
+    - title: Manual Scheduling
+      url: /manual-scheduling/
+
+- name: SFDC
+  icon: monitor-dot
+  items:
+    - title: SFDC
+      url: /sfdc/
+
+- name: Parts
+  icon: cog
+  items:
+    - title: Creating Parts
+      url: /creating-parts/
+    - title: Part Activity
+      url: /part-activity/
+    - title: Categories & Nominal Codes
+      url: /categories-nominal-codes/
+
+- name: Bill of Materials
+  icon: list-tree
+  items:
+    - title: BOM Copy & Templates
+      url: /bom-copy-templates/
+    - title: Labour Utilisation
+      url: /labour-utilisation/
+
+- name: Purchasing
+  icon: shopping-cart
+  items:
+    - title: Receiving Goods
+      url: /receiving-goods/
+    - title: Inwards Inspection
+      url: /inwards-inspection/
+    - title: RFQs
+      url: /rfqs/
+    - title: Supplier Part Numbers
+      url: /supplier-part-numbers/
+
+- name: Business
+  icon: briefcase
+  items:
+    - title: Shipping
+      url: /shipping/
+    - title: Invoicing
+      url: /invoicing/
+    - title: Payment Terms
+      url: /payment-terms/
+    - title: CofC
+      url: /cofc/
+    - title: Reports
+      url: /reports/
+
+- name: Contacts
+  icon: users
+  items:
+    - title: Customer
+      url: /customer/
+    - title: Suppliers
+      url: /suppliers/
+
+- name: Quality
+  icon: badge-check
+  items:
+    - title: Non Conformance Reports
+      url: /non-conformance-reports/
+    - title: Serial Traceability
+      url: /serial-traceability/
+    - title: Batch Traceability
+      url: /batch-traceability/

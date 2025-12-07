@@ -1,0 +1,36 @@
+title: Fraction ERP Support
+description: Support documentation for Fraction ERP - Manufacturing ERP software
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Collections for pages
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-seo-tag

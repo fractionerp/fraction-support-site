@@ -1,0 +1,28 @@
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <a href="{{ '/' | relative_url }}" class="logo">
+      <span class="logo-text">Fraction ERP</span>
+      <span class="logo-sub">Support</span>
+    </a>
+  </div>
+  <div class="nav-controls">
+    <button class="expand-btn" onclick="toggleAllSections(true)">Expand All</button>
+    <button class="collapse-btn" onclick="toggleAllSections(false)">Collapse All</button>
+  </div>
+  <nav class="nav-list">
+    {% for section in site.data.navigation %}
+    <div class="nav-section{% if page.section == section.name %} expanded{% endif %}">
+      <button class="nav-section-btn" onclick="toggleSection(this)">
+        <span class="nav-section-icon"><i data-lucide="{{ section.icon }}"></i></span>
+        <span class="nav-section-title">{{ section.name }}</span>
+        <i data-lucide="chevron-right" class="chevron"></i>
+      </button>
+      <ul class="nav-items">
+        {% for item in section.items %}
+        <li><a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </nav>
+</aside>
