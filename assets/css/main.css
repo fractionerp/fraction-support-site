@@ -1,4 +1,4 @@
-/* Fraction ERP Support - Dark Theme with Glassmorphism */
+/* FractionERP Support - Dark Theme with Glassmorphism */
 * {
   margin: 0;
   padding: 0;
@@ -6,32 +6,32 @@
 }
 
 :root {
-  /* SmartSpanner Brand Colors */
-  --brand-primary: #feb900;        /* SmartSpanner Yellow/Gold */
-  --brand-secondary: #52565e;      /* SmartSpanner Dark Gray */
-  --brand-default: #364d59;        /* SmartSpanner Text Color */
+  /* FractionERP Brand Colors */
+  --brand-primary: #37517e;        /* FractionERP Blue */
+  --brand-secondary: #47b2e4;      /* FractionERP Light Blue */
+  --brand-default: #444444;        /* FractionERP Text Color */
   
   /* Dark Theme Background */
-  --bg-gradient-start: #1a1c20;
-  --bg-gradient-end: #2d3035;
-  --sidebar-bg: rgba(26, 28, 32, 0.95);
+  --bg-gradient-start: #1a2332;
+  --bg-gradient-end: #28395a;
+  --sidebar-bg: rgba(40, 58, 90, 0.95);
   --card-bg: rgba(255, 255, 255, 0.08);
-  --card-border: rgba(254, 185, 0, 0.2);
+  --card-border: rgba(71, 178, 228, 0.2);
   
   /* Text Colors */
   --text-primary: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.85);
   --text-muted: rgba(255, 255, 255, 0.7);
   
-  /* Accent Colors - using SmartSpanner brand */
-  --accent-primary: #feb900;       /* Primary yellow */
-  --accent-secondary: #ffc732;     /* Lighter yellow for hover */
-  --accent-gradient: linear-gradient(to right, #feb900, #ffc732);
+  /* Accent Colors - using FractionERP brand */
+  --accent-primary: #47b2e4;       /* Primary light blue */
+  --accent-secondary: #6bc4ed;     /* Lighter blue for hover */
+  --accent-gradient: linear-gradient(to right, #37517e, #47b2e4);
   
   /* Interactive States */
-  --hover-bg: rgba(254, 185, 0, 0.1);
-  --active-bg: rgba(254, 185, 0, 0.15);
-  --active-border: #feb900;
+  --hover-bg: rgba(71, 178, 228, 0.1);
+  --active-bg: rgba(71, 178, 228, 0.15);
+  --active-border: #47b2e4;
 }
 
 html {
@@ -62,6 +62,8 @@ body {
   overflow-y: auto;
   z-index: 100;
   transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
 }
 
 .sidebar-header {
@@ -77,7 +79,7 @@ body {
 }
 
 .logo-img {
-  height: 36px;
+  height: 32px;
   width: auto;
   margin: 0;
 }
@@ -252,6 +254,8 @@ body {
 
 .nav-list {
   padding: 0.25rem 0;
+  flex: 1;
+  overflow-y: auto;
 }
 
 .nav-section {
@@ -356,6 +360,16 @@ body {
   color: var(--accent-primary);
   background: var(--active-bg);
   border-left-color: var(--active-border);
+}
+
+/* Sidebar Footer */
+.sidebar-footer {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--card-border);
+  text-align: center;
+  font-size: 0.6875rem;
+  color: rgba(255, 255, 255, 0.5);
+  flex-shrink: 0;
 }
 
 /* Main Content */
@@ -537,7 +551,7 @@ img {
   display: none;
   position: fixed;
   top: 1rem;
-  left: 1rem;
+  right: 1rem;
   z-index: 200;
   background: var(--card-bg);
   backdrop-filter: blur(10px);
@@ -569,7 +583,7 @@ img {
   
   .main-content {
     margin-left: 0;
-    padding: 4rem 1rem 2rem;
+    padding: 5rem 1rem 2rem;
   }
   
   .content-wrapper {
