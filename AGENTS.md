@@ -39,19 +39,33 @@ git add -A && git commit -m "prefix: description" && git push
 # FractionERP Support Docs - Jekyll
 
 ## Overview
-Support documentation site for FractionERP users.
+Support documentation site for FractionERP users. Built with Jekyll, deployed to GitHub Pages.
 
 ## Access
 - **Production**: https://support.fractionerp.com
-- **Local Dev**: http://localhost:8080/fraction-support
+- **Local Dev**: https://tenx.fraction.app/support.fractionerp.com/
+- **Build Output**: `/home/dev/tenx/apps/websites/support.fractionerp.com/_site/`
 
-## Build Commands
+## Important: Two Configuration Files
+
+### `_config.yml` (Production) - DO NOT modify for local dev
+- `url: "https://support.fractionerp.com"`
+- `baseurl: ""`
+
+### `_config_dev.yml` (Development) - Use for local dev
+- `url: "https://tenx.fraction.app"`
+- `baseurl: "/support.fractionerp.com"`
+
+## Building the Site
+
+**IMPORTANT: After making ANY changes, you MUST rebuild:**
+
 ```bash
-# Build for local development
-docker compose exec jekyll jekyll build --config _config.yml,_config_dev.yml
+# Build with dev config for local testing
+docker exec websites_jekyll bash -c "cd /srv/support.fractionerp.com && jekyll build --config _config.yml,_config_dev.yml"
 
-# Watch mode
-docker compose exec jekyll jekyll build --config _config.yml,_config_dev.yml --watch
+# Verify build
+curl -I https://tenx.fraction.app/support.fractionerp.com/
 ```
 
 ## Structure
@@ -59,10 +73,18 @@ docker compose exec jekyll jekyll build --config _config.yml,_config_dev.yml --w
 _pages/                    # Documentation pages (Markdown)
 _data/navigation.yml       # Sidebar navigation structure
 _includes/sidebar.html     # Sidebar partial
+_layouts/default.html      # Page layout
+assets/
+├── css/                   # Stylesheets
+├── js/                    # JavaScript
+└── images/                # Screenshots and images
+_config.yml                # Production config
+_config_dev.yml            # Development config
 ```
 
 ## Content Guidelines
 - Write in Markdown with GFM (GitHub Flavored Markdown)
 - Use clear headings and step-by-step instructions
 - Include screenshots where helpful
+- Use `{{ site.baseurl }}/assets/images/...` for image paths
 - Target audience: FractionERP end users (manufacturers)
